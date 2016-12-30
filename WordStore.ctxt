@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=void\ add(java.lang.String)
+comment1.params=word
+comment1.target=int\ count(java.lang.String)
+comment2.params=word
+comment2.target=void\ remove(java.lang.String)
+numComments=3
